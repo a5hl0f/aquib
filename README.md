@@ -1,2 +1,2 @@
 # aquib
-i am learning github
+i am learning git 
